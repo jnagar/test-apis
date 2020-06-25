@@ -1,23 +1,23 @@
 {
     "categories" : [
         {
-            "id" : "1"
-            "name" : "NCERT Books"
+            "id" : "1",
+            "name" : "NCERT Books",
             "medium" : "English Medium"
         },
         {
-            "id" : "2"
-            "name" : "NCERT किताबें"
+            "id" : "2",
+            "name" : "NCERT किताबें",
             "medium" : "हिंदी माध्यम"
         },
         {
-            "id" : "3"
-            "name" : "NCERT Solutions"
+            "id" : "3",
+            "name" : "NCERT Solutions",
             "medium" : ""
         },
         {
-            "id" : "4"
-            "name" : "NCERT Notes"
+            "id" : "4",
+            "name" : "NCERT Notes",
             "medium" : ""
         }
     ]
