@@ -1,0 +1,45 @@
+{
+    "classes" : [
+        {
+            "id" : "CLASS_12",
+            "enName" : "Class 12 Books",
+            "hinName" : "कक्षा 12 की किताबें"
+        },
+         {
+            "id" : "CLASS_11",
+            "enName" : "Class 11 Books",
+            "hinName" : "कक्षा 11 की किताबें"
+        },
+         {
+            "id" : "CLASS_10",
+            "enName" : "Class 10 Books",
+            "hinName" : "कक्षा 10 की किताबें"
+        },
+         {
+            "id" : "CLASS_9",
+            "enName" : "Class 9 Books",
+            "hinName" : "कक्षा 9 की किताबें"
+        },
+         {
+            "id" : "CLASS_8",
+            "enName" : "Class 8 Books",
+            "hinName" : "कक्षा 8 की किताबें"
+        },
+         {
+            "id" : "CLASS_7",
+            "enName" : "Class 7 Books",
+            "hinName" : "कक्षा 7 की किताबें"
+        },
+         {
+            "id" : "CLASS_6",
+            "enName" : "Class 6 Books",
+            "hinName" : "कक्षा 6 की किताबें"
+        },
+         {
+            "id" : "CLASS_5",
+            "enName" : "Class 5 Books",
+            "hinName" : "कक्षा 5 की किताबें"
+        },
+        
+    ]
+}
